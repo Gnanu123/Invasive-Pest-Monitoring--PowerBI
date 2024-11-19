@@ -1,0 +1,6 @@
+Source,Date,Forest_Type,GPS_Latitude,GPS_Longitude,Insect_Count,Image_File,Observation_Note,Data_Quality
+Drone,2024-11-01,Deciduous,34.0522,-118.2437,120,drone_img_01.jpg,Dense insect cluster near water body,High
+Field Observation,2024-11-01,Coniferous,40.7128,-74.006,95,field_obs_01.jpg,Moderate spread on coniferous trees,Medium
+Satellite,2024-11-02,Tropical,-1.2921,36.8219,150,satellite_img_01.jpg,High-density cluster detected via NDVI,High
+Drone,2024-11-03,Deciduous,36.7783,-119.4179,130,drone_img_02.jpg,Signs of infestation near forest edge,High
+Satellite,2024-11-04,Coniferous,47.6062,-122.3321,110,satellite_img_02.jpg,Sparse insect presence detected,Medium
